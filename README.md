@@ -10,3 +10,8 @@ Inspired by my favorite childhood game on the Gameboy, Battle City, I wanted to 
 - Physical buttons
 - Headphone jack
 - RetroPie OS
+
+### To-Do List
+- Order and receive Raspberry Pi for testing ✓
+- Determine what components are to be used
+- Design a simple console in CAD
